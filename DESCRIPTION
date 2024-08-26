@@ -14,8 +14,8 @@ Authors@R: c(person(c("Jackson", "G"),"Lu", email= "jackson.guannan.lu@gmail.com
      person(c("Nancy", "R"),"Xu", email= "nancyranxu@gmail.com", role=c("aut", "cre")))
 License: GPL (>= 2)
 Depends: R (>= 3.1.0)
-RoxygenNote: 6.0.1
-LazyData: TRUE
+RoxygenNote: 7.3.2
+Encoding: UTF-8
 NeedsCompilation: no
 Packaged: 2017-07-01 13:50:00 UTC; JacksonLuOld
 Author: Jackson G Lu [aut],
