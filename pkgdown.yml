@@ -1,8 +1,8 @@
 pandoc: 3.1.11
-pkgdown: 2.1.0
+pkgdown: 2.1.1
 pkgdown_sha: ~
 articles: {}
-last_built: 2024-08-26T18:41Z
+last_built: 2024-10-07T00:42Z
 urls:
-  reference: https://jrdnbradford.github.io/MicroMacroMultilevel/reference
-  article: https://jrdnbradford.github.io/MicroMacroMultilevel/articles
+  reference: https://xurannancy.github.io/MicroMacroMultilevel/reference
+  article: https://xurannancy.github.io/MicroMacroMultilevel/articles
